@@ -4,8 +4,8 @@
 - **Company Name:** BAZAR De DIDI
 - **Directory:** bazar_de_didi
 - **Address/Contact:** 
-  - Abidjan, C�te d'Ivoire, 00225
-  - Coordonn�es
+  - Abidjan, Céte d'Ivoire, 00225
+  - Coordonnées
   - 
   - +225 0556831075
   - 
